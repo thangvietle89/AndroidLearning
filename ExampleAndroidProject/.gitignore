@@ -1,0 +1,11 @@
+*.class
+.project
+.settings/*
+/bin
+/gen
+/target
+
+# Package Files #
+*.jar
+*.war
+/target

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExampleAndroidProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_interstitial">Load Interstitial</string>
+    <string name="interstitial_not_ready">Interstitial Not Ready</string>
+    <string name="title">Google Mobile Ads Interstitial Sample</string>
+    <string name="title_example">List Android Examples</string>
+    
+    <!-- 1. Banner Ads -->
+    <string name="banner_ads">1. Banner Ads</string>
+    <string name="ad_unit_id">ca-app-pub-1356291729990147/5372188915</string>
+    <string name="display_banner_ads">Display Banner Ads</string>
+    
+    <!-- 2. WebView Demo -->
+    <string name="webview_demo">2. WebView Demo</string>
+    <string name="webview_demo_title">WebView Demo</string>
+    <string name="mojito_recipe">Mojito Recipe</string>
+    <string name="noaa_tropical_satellite">NOAA Tropical Satellite</string>
+    
+    <!-- Draggable Symbols -->
+    <string name="draggable_symbols_1">3. Draggable Symbols 1</string>
+    <string name="draggable_symbols_2">4. Draggable Symbols 2</string>
+
+</resources>
